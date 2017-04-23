@@ -1,0 +1,12 @@
+{
+  "name": "dawacare",
+  "dependencies": {
+    "body-parser": "latest",
+    "express": "latest",
+    "mongoose": "latest",
+    "angular": "latest",
+    "angular-cookies": "latest",
+    "angular-route": "latest",
+    "jquery": "latest"
+  }
+}
