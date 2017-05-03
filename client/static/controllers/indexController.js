@@ -1,3 +1,4 @@
-dawacare_app.controller('dawacareController', function() {
+dawacare_app.controller('indexController', function() {
+
 
 })
